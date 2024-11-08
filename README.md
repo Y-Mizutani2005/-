@@ -1,9 +1,8 @@
-# FastArithmetic
-速算術の練習ができるサイトです
+# FastArithmetic<br>
+速算術の練習ができるサイトです<br>
 
-
-
-
+リンク（githubpages）：<br>
+https://y-mizutani2005.github.io/FastArithmetic/<br>
 
 ・キーボードの1,2,3,4が回答ボタンの左から順に対応しています<br>
 ・左上のバーで効果音の音量調整ができます<br>
